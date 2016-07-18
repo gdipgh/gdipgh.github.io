@@ -1,0 +1,22 @@
+.welcome {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+  color: #2a4758;
+  font-size: 1.5em;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.welcome p {
+  text-align: left;
+}
+
+.welcome a {
+  color: #f95a61;
+}
+.welcome a:visited {
+  color: #f95a61;
+}
+.welcome a:hover {
+  color: #2d2e2e;
+}
